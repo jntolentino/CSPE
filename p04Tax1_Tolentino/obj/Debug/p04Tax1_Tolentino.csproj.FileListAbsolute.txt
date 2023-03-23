@@ -1,0 +1,8 @@
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\bin\Debug\p04Tax1_Tolentino.exe.config
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\bin\Debug\p04Tax1_Tolentino.exe
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\bin\Debug\p04Tax1_Tolentino.pdb
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\obj\Debug\p04Tax1_Tolentino.csproj.AssemblyReference.cache
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\obj\Debug\p04Tax1_Tolentino.csproj.SuggestedBindingRedirects.cache
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\obj\Debug\p04Tax1_Tolentino.csproj.CoreCompileInputs.cache
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\obj\Debug\p04Tax1_Tolentino.exe
+C:\Users\MTCL5-28\Documents\Visual Studio 2022\Tolentino\p04Tax1_Tolentino\obj\Debug\p04Tax1_Tolentino.pdb
